@@ -11,7 +11,7 @@
  *   Vladimir Panteleev <vladimir@thecybershadow.net>
  */
 
-module ae.utils.serialization.serialization;
+module ae.utils.sd.sd;
 
 import std.conv;
 import std.format;

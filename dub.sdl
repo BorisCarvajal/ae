@@ -61,7 +61,6 @@ excludedSourceFiles "utils/alloc.d"
 excludedSourceFiles "utils/container/hashtable.d"
 excludedSourceFiles "utils/container/list.d"
 excludedSourceFiles "utils/container/package.d"
-excludedSourceFiles "utils/serialization/*.d"
 excludedSourceFiles "utils/xmldom.d"
 
 # libz (zlib) is a dependency on Phobos, and normally shouldn't be
