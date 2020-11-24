@@ -33,7 +33,8 @@ import ae.utils.textout;
 
 alias indexOf = std.string.indexOf;
 
-public import ae.utils.text.ascii : ascii, DecimalSize, toDec, toDecFixed, asciiToLower, asciiToUpper;
+public import ae.utils.text.ascii : ascii, decimalSize, toDec, toDecFixed, asciiToLower, asciiToUpper;
+deprecated public import ae.utils.text.ascii : DecimalSize;
 public import ae.utils.array : contains;
 
 // ************************************************************************
